@@ -1,4 +1,4 @@
 This is a new way of commiting to jenkins
 This is the last stage of the commit and project 
 
-lets goo and make it happen 
+"Please notice the change in the jenkins console output"
